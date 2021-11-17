@@ -1,2 +1,2 @@
 # GaussianProcessRegression
-Gaussian Process Regression
+Random Fourier Features accelerated Gaussian Process Regressor
